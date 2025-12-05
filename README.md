@@ -1,7 +1,13 @@
 🎵 WaveBeat – Simple Music App
 
-WaveBeat is a clean and modern frontend music player built with React, Vite, and Tailwind CSS.
+WaveBeat is a clean and modern frontend music player built with React, Vite, and Tailwind CSS and Deezer API.
 The app allows users to browse songs, play/pause audio, and enjoy a smooth, minimalistic user interface.
+
+**Responsiveness & Device Support**: WaveBeat adapts beautifully to:
+-Smartphones 
+-Tablets 
+-Laptops 
+-Desktop monitors.
 
 ✨ Features :
 
