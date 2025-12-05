@@ -1,17 +1,32 @@
-# React + Vite
+🎵 WaveBeat – Simple Music App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+WaveBeat is a clean and modern frontend music player built with React, Vite, and Tailwind CSS.
+The app allows users to browse songs, play/pause audio, and enjoy a smooth, minimalistic user interface.
 
-Currently, two official plugins are available:
+✨ Features :
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Replay button
+- Progress bar
+- Current song playing
+- Play / Pause functionality
+- 🎵 List of songs with titles & thumbnails
+- Song cover.
+  Volume control bar
+- Autoplay the next song- if the song ends the next song plays.
+- Shuffle option - a song can be replayed.
+- Dark mode- users can change the display mode from light to dark.
+- Music background- user can set or choose a background theme from gallery or from the fixed themes.
 
-## React Compiler
+-Fast development environment powered by Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Simple, component-based architecture (React)
 
-## Expanding the ESLint configuration
+Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# WaveBeat-alx-project
+React – UI components
+
+Vite – Bundler & dev server
+
+Tailwind CSS – Styling
+
+JavaScript (ES6+)
